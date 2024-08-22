@@ -12,7 +12,7 @@ Streamlit app that allows you to chat with any webpage using local Llama-3 and R
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/AhmetEnesYalcinkaya/llm-apps.git
 ```
 2. Install the required dependencies:
 
